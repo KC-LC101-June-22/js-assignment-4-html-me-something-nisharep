@@ -20,7 +20,7 @@ p {
     body {
         width: 100%;
         max-width: 1200px;
-        margin: 0 auto;
+        margin: 8px auto;
         background-color: rgb(254, 248, 239);
         font-size: 70%;
         font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -46,6 +46,10 @@ p {
         font-style:italic;
     }
 
+    #mainHeading {
+        color:red;
+    }
+
     section {
         margin: 1.775em 0;
     }
@@ -56,6 +60,10 @@ p {
 
     footer {
         text-align: center;
+    }
+
+    h1 {
+        text-align:center;
     }
 
     
